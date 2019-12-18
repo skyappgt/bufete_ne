@@ -14,7 +14,8 @@ const TemplateWrapper = ({ children }) => {
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
-
+        <link href="styles/global.css" rel="stylesheet" />
+        
         <link
           rel="apple-touch-icon"
           sizes="180x180"
