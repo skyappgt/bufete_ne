@@ -4,8 +4,24 @@ body {
     font-family: 'Montserrat', sans-serif !important;
 
 }
-
+.indeximg{
+    max-width: 90%;
+    background-color: #06082fad;
+}
+.dev{
+    display: block ruby;
+    text-align: center;
+    font-size: x-small;
+}
 .navbar-item img{
     width: auto;
-    max-height: 5.55rem;
+    max-height: 3.1855rem;
+}
+.content > form{
+    display: inline-block;
+}
+
+.section{
+    text-align: justify;
+    
 }

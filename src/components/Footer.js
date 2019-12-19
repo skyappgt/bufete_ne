@@ -5,7 +5,7 @@ import logo from '../img/Norma Esquivel Mendoza-logo-white.png'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
-import vimeo from '../img/social/vimeo.svg'
+import wasap from '../img/iconwasap.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -39,11 +39,11 @@ const Footer = class extends React.Component {
                         Servicios
                       </Link>
                     </li>
-                    <li>
+                    {/* <li>
                       <Link className="navbar-item" to="/contact/examples">
                         Form Examples
                       </Link>
-                    </li>
+                    </li> */}
                     <li>
                       <a
                         className="navbar-item"
@@ -96,10 +96,10 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="vimeo" href="https://vimeo.com">
+                <a title="Whatsapp" href="https://wa.me/50253351693?text=Hola%20me%20puedes%20enviar%20mas%20información!">
                   <img
-                    src={vimeo}
-                    alt="Vimeo"
+                    src={wasap}
+                    alt="Wasap"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
@@ -107,6 +107,11 @@ const Footer = class extends React.Component {
             </div>
           </div>
         </div>
+        <div className="dev">
+          💻<a href="https://facebook.com/itskyapps" className="navbar-item">SkyApps GT</a>Guatemala ©️ 2019
+          
+        </div>
+
       </footer>
     )
   }
