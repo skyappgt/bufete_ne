@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Las leyes en Guatemala
 date: 2019-12-19T02:01:50.752Z
-description: No sirven
+description: Se deben Analizar y saber aplicar al caso concreto
 featuredpost: true
 featuredimage: /img/main-banner.jpg
 tags:
@@ -10,4 +10,4 @@ tags:
   - guatemala
   - nimodo
 ---
-Alguna si sirven otras no.. en fin
+Se deben crear leyes dando mayor eficacia a la administración de justicia
