@@ -15,7 +15,8 @@ const TemplateWrapper = ({ children }) => {
         <title>{title}</title>
         <meta name="description" content={description} />
         <link href="styles/global.css" rel="stylesheet" />
-        
+        <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+        {/* <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css"/> */}
         <link
           rel="apple-touch-icon"
           sizes="180x180"
@@ -48,9 +49,13 @@ const TemplateWrapper = ({ children }) => {
           property="og:image"
           content={`${withPrefix('/')}img/fabicon.jpg`}
         />
+       
+        
       </Helmet>
       <Navbar />
+     
       <div>{children}</div>
+      
       <Footer />
     </div>
   )

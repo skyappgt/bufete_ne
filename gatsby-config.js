@@ -66,6 +66,12 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+          endpoint: 'https://netlify.us20.list-manage.com/subscribe/post?u=a17e780aa6953e08165fa2e85&amp;id=1508f75202', // add your MC list endpoint here; see instructions below
+      },
+    },
+    {
       resolve: 'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
       options: {
         develop: true, // Activates purging in npm run develop

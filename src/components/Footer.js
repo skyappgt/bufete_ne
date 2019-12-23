@@ -108,7 +108,7 @@ const Footer = class extends React.Component {
           </div>
         </div>
         <div className="dev">
-          💻<a href="https://facebook.com/itskyapps" className="navbar-item">SkyApps GT</a>Guatemala ©️ 2019
+          💻<a href="https://facebook.com/itskyapps" className="navbar-item">Sky_Apps GT</a>Guatemala ©️ 2019
           
         </div>
 
