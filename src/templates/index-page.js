@@ -7,6 +7,7 @@ import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
 import logo from '../img/Norma Esquivel Mendoza-logo-white.png'
 import addToMailchimp from 'gatsby-plugin-mailchimp'
+import { navigate } from 'gatsby-link'
 
 
 
@@ -29,13 +30,15 @@ export const IndexPageTemplate = ({
       // I recommend setting data to React state
       // but you can do whatever you want (including ignoring this `then()` altogether)
       console.log(data)
-      if(data.result =='error'){
+      if(data.result ==='error'){
         alert('El usuario '+email+' ya está suscrito!')
         setEmail('')     
-      }else if(data.result =='success'){
-        alert('Gracias por Suscribirse!!')
+      }else if(data.result ==='success'){
+        
+        // alert('Gracias por Suscribirse!!')
         setSuscrito(data)
         setEmail(' ')
+        navigate('/contacto/sthanks/')
       }
     })
     .catch(() => {
