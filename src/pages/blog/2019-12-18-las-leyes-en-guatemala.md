@@ -25,15 +25,10 @@ tags:
 Los pasos que incluye esta etapa son:
 
 1. Presentación de la iniciativa o proyecto de ley (Art. 109 de la Ley Orgánica del Organismo Legislativo).
-
    1.1 Redactado en forma de decreto separando la parte considerativa de la dispositiva.
-
    1.2 Acompañado de estudios técnicos y documentos.
-
    1.3 Por escrito y en forma digital.
-
    1.4. Se presenta a la Dirección Legislativa.
-
 2. La Dirección Legislativa le da lectura a la exposición de motivos ante el Pleno Legislativo.
 3. El Pleno Legislativo remite el proyecto o iniciativa de ley a la Comisión de Trabajo respectiva
 4. La Comisión de Trabajo estudia el proyecto o iniciativa de ley.
@@ -94,3 +89,7 @@ Dar a conocer la ley a quienes deban cumplirla. Los establece la Constitución e
 Ocho días después de su publicación en el diario oficial a menos que la ley restrinja el plazo. Lo establece el artículo 180 de la Constitución
 
 15. Vigencia de la Ley: Es la vida de una ley la cual puede ser determinada o indeterminada. Es cuando la ley se vuelve aplicable, esto sucede ocho días después de su publicación o cuando lo establezca la misma ley.
+
+
+
+[`Fuente`](< https://es.wikipedia.org/wiki/Procedimiento_legislativo_en_Guatemala>)``
