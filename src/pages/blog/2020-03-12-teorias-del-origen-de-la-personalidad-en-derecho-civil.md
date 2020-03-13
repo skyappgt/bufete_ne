@@ -6,7 +6,7 @@ description: >-
   La personalidad es la investidura jurídica que confiere aptitud para ser
   sujeto de derechos y contraer obligaciones
 featuredpost: true
-featuredimage: /img/matacuca512.png
+featuredimage: /img/1.jpg
 tags:
   - personalidad
 ---
