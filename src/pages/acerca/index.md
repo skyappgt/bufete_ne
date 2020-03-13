@@ -4,7 +4,7 @@ title: Acerca
 ---
 <!-- ### Acerca -->
 
-Con sede en la zona 1, ciudad de Guatemala, se ha prestados servicios legales por mas de 10 años representado legalmente los intereses de sus clientes en muchos casos jurídicos en su trayectoria profesional, con el objeto de brindar asesoramiento jurídico empresarial y representación en litigios.
+Con sede en la ciudad de Guatemala, se ha prestado servicios legales por mas de 10 años representado legalmente los intereses de sus clientes en muchos casos jurídicos en su trayectoria profesional, con el objeto de brindar asesoramiento jurídico  y representación en litigios.
 
 Actualmente, se continúa brindado asesoría y consultoría legal a empresas, siendo una característica el servicio personalizado a sus clientes.
 
